@@ -31,7 +31,7 @@ Currently, I'm a student at **PENS (Politeknik Elektronika Negeri Surabaya)**, f
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="#">
+  <a href="https://instagram.com/arjnln_">
     <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
   </a>
 
