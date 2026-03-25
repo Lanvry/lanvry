@@ -1,4 +1,4 @@
-<h1>👋 Hi! I'm Lanvry</h1>
+<h1>👋 Hi! I'm Arjuna Lanang Adiwarsana</h1>
 
 <!-- Skill Badges -->
 <p>
