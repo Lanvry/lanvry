@@ -35,7 +35,7 @@ Currently, I'm a student at **PENS (Politeknik Elektronika Negeri Surabaya)**, f
     <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
   </a>
 
-  <a href="#">
+  <a href="https://www.linkedin.com/in/arjuna-lanang-adiwarsana-4223622a0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
