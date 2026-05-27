@@ -23,7 +23,7 @@ Currently, I'm a student at **PENS (Politeknik Elektronika Negeri Surabaya)**, f
 ### 🌐 Follow me on:
 
 <p>
-  <a href="https://arjunapersonal.rf.gd">
+  <a href="https://arjunapersonal.my.id/">
     <img src="https://img.shields.io/badge/Website-222?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
