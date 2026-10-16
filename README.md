@@ -9,8 +9,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lanvry&style=for-the-badge&color=1f3a8a&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Lanvry?style=for-the-badge&logo=github&color=1f3a8a&labelColor=0d1117)
+[![PENS](https://img.shields.io/badge/PENS-Surabaya-1f3a8a?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117)](https://www.pens.ac.id)
+[![Follow](https://img.shields.io/badge/Follow-@Lanvry-1f3a8a?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Lanvry?tab=followers)
+[![Open to Collaborate](https://img.shields.io/badge/Open_to-Collaborate-3b82f6?style=for-the-badge&labelColor=0d1117)](https://github.com/Lanvry)
 
 </div>
 
