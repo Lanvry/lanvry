@@ -75,7 +75,7 @@ I'm a **student at PENS (Politeknik Elektronika Negeri Surabaya)** with a passio
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanvry&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.up.railway.app/graph?username=Lanvry&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
